@@ -1,1 +1,1 @@
-Add here email adresses you want to send to (and delete this line, otherwise it would not work):
+Add here email adresses you want to send to (and delete this line, otherwise it would not work)
