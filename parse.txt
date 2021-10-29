@@ -1,3 +1,1 @@
-ragemaggy@mail.ru
-danya.lysenko2005@gmail.com
-productivemouse@gmail.com
+Add here email adresses you want to send to (and delete this line, otherwise it would not work):
